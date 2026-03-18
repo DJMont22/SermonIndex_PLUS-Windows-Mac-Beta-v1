@@ -149,9 +149,7 @@ The installed application includes an uninstaller.
 Within Program files. click uninstall and follow for complete uninstall.
 
 Typical uninstall process:
-1. Open Windows **Installed Apps / Apps & Features**, or
-2. Open the program’s install folder and run **Uninstall.exe**, or
-3. Use the Start Menu uninstall entry if available.
+1. Open the program’s install folder and run **Uninstall.exe**
 
 This removes the installed app files and shortcuts created by the installer.
 

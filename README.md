@@ -1,4 +1,4 @@
-Check Releases to download the setup EXE & read me.
+Check Releases to download the Windows setup EXE & read me.
 This is a ongoing project,
 please submit request and feed back for app updates or if you find bugs message me on here.
 or if you have a program request message me on github.

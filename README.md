@@ -4,6 +4,7 @@ please submit request and feed back for app updates or if you find bugs message 
 or if you have a program request message me on github.
 My First Github/big coding project :)
 ________________________________________________________
+<img width="1902" height="1018" alt="image" src="https://github.com/user-attachments/assets/51081a28-886a-4cdd-b0aa-d8d6054eaf73" />
 
 # SermonIndex +
 A desktop study and download companion for SermonIndex content.
@@ -15,28 +16,36 @@ This app is intended to work from official SermonIndex sources only. SermonIndex
 
 ## What the program does
 The app lets you:
-- browse speakers from SermonIndex
+- browse speakers from SermonIndex 
 - load sermons and books by speaker
-- read sermon or book content in the built-in reader
+- read sermon or book content in the built-in reader.
+- <img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/9629813d-b160-4a28-8972-d16766a6095f" />
+- <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/f69f4964-869a-4b51-a0d5-f37586b652dd" />
+  
 - use the Bible viewer to open translations, chapters, and verses
 - jump directly to a Bible reference
 - compare Bible passages with a parallel translation view
+- <img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/d4132a4a-b21e-40fb-a76b-f3be6a9e75dd" />
+
 - listen to available audio inside the app
-- download available files exposed by SermonIndex
+- <img width="1906" height="1037" alt="image" src="https://github.com/user-attachments/assets/61346464-5451-4307-b695-665704820cae" />
+
+- 
 - send selected text into the Index Study workspace via right click or copy paste to tab.
+- <img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/42551a2d-8b95-4a4f-b33b-2e7535b1b35d" />
+
+
 - build study notes and package selected resources into a ZIP file
+- download available files exposed by SermonIndex
+- <img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/53d143e4-7e75-48c3-98b5-de115d47c033" />
+
+
 
 ## Official SermonIndex content used by the app
+https://www.sermonindex.net/
 This program is designed to use official SermonIndex content only.
 To have a Web app designed for creation and study.
 
-SermonIndex publicly presents:
-- audio sermons
-- video sermons ( coming in next update )
-- text sermons
-- books
-- online Bibles
-- downloadable sermon media and text files such as MP3, MP4, PDF, and TXT where available. 
 
 **SermonIndex also states that its materials are offered freely, and the site’s FAQ explains that its sermons and materials may be copied for personal use and distribution.**
 

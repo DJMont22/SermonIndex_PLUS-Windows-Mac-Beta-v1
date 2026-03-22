@@ -1,4 +1,4 @@
-Check Releases to download the Windows setup EXE & read me.
+Check Releases to download the Windows setup EXE * **or the New Mac Versions** *& read me.
 This is a ongoing project,
 please submit request and feed back for app updates or if you find bugs message me on here.
 or if you have a program request message me on github.
@@ -163,6 +163,13 @@ Typical uninstall process:
 1. Open the program’s install folder and run **Uninstall.exe**
 
 This removes the installed app files and shortcuts created by the installer.
+
+========
+New Mac Version Both Chipsets
+========
+
+In releases i have provided the zips to both chipsets for mac :)
+
 
 ## Notes
 - This app is intended to use official SermonIndex website/API resources only.
